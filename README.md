@@ -1,4 +1,4 @@
-# BRT Database 🗄️
+# BRET Database 🗄️
 
 An Oracle Database project for an employment platform. It manages job categories, job listings, user accounts, professional profiles, profile-to-job relationships, and comments.
 
